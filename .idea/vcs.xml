@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="D:/LABS/CHEVA-FRONT END/money_changer" vcs="Git" />
+    <mapping directory="D:/LABS/CHEVALIER/challenge" vcs="Git" />
+    <mapping directory="D:/LABS/PRODASE/instantfame" vcs="Git" />
+    <mapping directory="D:/SEMESTER 1/TUBES/TUBES FIX" vcs="Git" />
+    <mapping directory="D:/SEMESTER 2/ISD/DearDiary" vcs="Git" />
+    <mapping directory="D:/SEMESTER 2/ISD/Music Player" vcs="Git" />
   </component>
 </project>

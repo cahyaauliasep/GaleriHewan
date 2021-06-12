@@ -3,21 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="@dimen/horizontal_margin"
+    android:layout_margin="16dp"
     android:orientation="vertical"
     android:weightSum="2">
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:contentDescription="@null"
-        tools:src="@drawable/ideal" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:textSize="18sp"
-        tools:text="@string/saran_ideal" />
+        tools:text="@string/selengkapnya" />
 </LinearLayout>
